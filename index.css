@@ -6,6 +6,10 @@ body{
     margin: 0;
 }
 
+.site{
+    width: 100vw;
+}
+
 .navbar{
     display: flex;
     justify-content: center;
