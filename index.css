@@ -309,6 +309,10 @@ p{
         color: #000;
     }
 
+    .mobile-menu{
+        width: 100vw;
+    }
+
     
     
 
@@ -452,9 +456,8 @@ ul {
     display: none;
     position: absolute;
     top: 50px;
-    left: 0;
     height: 50vh;
-    width: 100%;
+    width: 85vw;
   }
   
   .mobile-menu li {
