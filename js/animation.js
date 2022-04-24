@@ -14,7 +14,7 @@ $('.logo').on('click', function(e){
 });
 
 
-$('.navbtn a').on('click', function(e){
+$('.navbtn a, .hamburger a').on('click', function(e){
     if(this.hash !== '') {
         e.preventDefault();
 
